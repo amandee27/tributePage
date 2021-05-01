@@ -1,3 +1,7 @@
+body{
+  margin: 0;
+}
+
 .navBar {
   list-style-type: none;
   margin: 0;
@@ -29,6 +33,8 @@
 }
 h2 {
 text-align: center;
+margin: 0;
+padding-top: 10px;
 }
 h4{
   text-align: center;
