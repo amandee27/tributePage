@@ -1,0 +1,57 @@
+.navBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navList {
+  float: left;
+}
+
+.navList a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ 
+.navList a:hover {
+  background-color: #111;
+}
+
+.box {
+  background-color:silver;
+  width: 100%;
+  
+}
+h2 {
+text-align: center;
+}
+h4{
+  text-align: center;
+}
+.coverImg{
+  align-items: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.imageContainer{
+  background-color: white;
+  width: 90%;
+  }
+.listContainer{
+  padding: 2% 20%;
+}
+.statement{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 0%;
+  padding-bottom: 2%;
+}
